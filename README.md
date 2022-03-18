@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1 style="color:#41b883;"><a href="https://ardi.dev">Hello!! I'm Ardi Artani</a></h1>
-  <h3>Founder, software engineer, problem solver.</h3>
+  <h1><a href="https://ardi.dev">Hello! I'm Ardi Artani</a></h1>
+  <h3>Founder, software engineer, and problem solver.</h3>
 </div>
 
 
